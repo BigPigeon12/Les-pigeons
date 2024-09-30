@@ -1,0 +1,50 @@
+body {
+	background-color: #DEDEDE;
+}
+
+#container {
+	background-color: #DEDEDE;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#header {
+   background-color: #000000;
+   color: white;
+	text-align: center;
+}
+
+#content {
+	background-color: #DEDEDE;
+	padding: 10px;
+
+}
+
+#foot {
+	clear: both;
+
+}
+
+
+#image {
+
+	margin-right: 500px;
+	margin-left: 500px;
+}
+
+#link{
+
+	text-align: center;
+}
+
+#nav{
+	text-align: center;
+
+}
+
+
+
+
+
